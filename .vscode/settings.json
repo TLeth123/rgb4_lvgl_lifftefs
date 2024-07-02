@@ -1,0 +1,31 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "files.associations": {
+    "lvgl_init.h": "c",
+    "st7701.h": "c",
+    "esp_log.h": "c",
+    "lv_demos.h": "c",
+    "lvgl.h": "c",
+    "*.tcc": "c",
+    "chrono": "c",
+    "random": "c",
+    "functional": "c",
+    "regex": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "i2c_lcd.h": "c",
+    "esp_err.h": "c",
+    "kiwik.h": "c",
+    "lv_demo_widgets.h": "c",
+    "array": "c",
+    "bitset": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "string": "c",
+    "lv_sjpg.h": "c",
+    "lv_demo_benchmark.h": "c"
+  },
+  "idf.portWin": "COM8",
+  "idf.flashType": "UART"
+}
